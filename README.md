@@ -1,2 +1,2 @@
-# forInterview
-The repository created for the interview in 2018
+# 前端面试知识点准备
+这个仓库主要记录一些在面试准备的过程中做的笔记.
