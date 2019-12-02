@@ -2,9 +2,9 @@ Subject: RESIGNATION LETTER
 
 Dear Mr. Jason:
 
-Please accept my resignation as a web developer at CSTC Company. I plan to leave my job here on Dec 27, 2019.
+Please accept my resignation as a web developer at CSTC Company. I plan to leave my job here on Dec 31, 2019.
 
-Looking back on my two and a half years in Citi, I have completed more than 110 JIRAs, including bug fixes, stories and new features. Participating in the refactoring of some small projects, such as Interaction Form and Mobile. In addition, working in backend and developing some API. All the work was done with my best ability and efforts.
+Looking back on my two and a half years in Citi, I have completed more than 110 JIRAs in CRM, including bug fixes, stories and new features. Participating in the refactoring of some small projects, such as Interaction Form and Mobile. In addition, working in backend and developing some API. All the work was done with my best ability and efforts.
 
 I want to thank you for the wonderful experience I had with CRM team. All the colleagues are very friendly and help me a lot in my work and life. I have learned a lot of useful knowledge from them. This work experience will be a very important part of my entire career development.
 
